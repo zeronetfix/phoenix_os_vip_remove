@@ -3,7 +3,7 @@
 ## How To Remove Vip:
 
 
-- 1. First, download the file from here.
+- 1. First, download the file from here & unzip it.
 
 - 2. Then Go to the /system/app directory using any root file explorer, from there delete the two folders named Launchwork and Phoenixvip.
 

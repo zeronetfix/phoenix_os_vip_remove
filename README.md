@@ -3,7 +3,7 @@
 ## How To Remove Vip:
 
 
-- 1. First, download the zip file from here and unzip it.
+- 1. First, download the file from here.
 
 - 2. Then Go to the /system/app directory using any root file explorer, from there delete the two folders named Launchwork and Phoenixvip.
 
@@ -20,7 +20,7 @@
 ## কিভাবে ভিআইপি অপসারণ করবেন :
 
 
-- ১। প্রথমেই এখান হতে জিপ ফাইলটি ডাউনলোড করে আনজিপ করে নিন।
+- ১। প্রথমেই এখান হতে ফাইলটি ডাউনলোড করে নিন।
 
 - ২। যেকোনো রুট ফাইল এক্সপ্লোরার ব্যবহার করে /system/app ডিরেক্টরিতে যান, সেখান হতে launchwork ও phoenixvip নামক ফোল্ডার দুটি ডিলেট করে দিন।
 
